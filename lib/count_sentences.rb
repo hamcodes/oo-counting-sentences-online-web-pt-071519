@@ -25,5 +25,5 @@ end
 
   def count_sentences
     count_sentences.split    
-
+end
 end
