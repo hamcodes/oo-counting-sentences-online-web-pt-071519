@@ -24,6 +24,7 @@ end
   end
 
   def count_sentences(string)
-    
+    sentence_count = txt.split(/\.|\?|!/).length
+puts sentence_count
   end
 end
